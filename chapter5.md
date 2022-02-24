@@ -212,7 +212,7 @@ while (cin >> item1 >> item2) {
   + The new header defines the **bad_alloc** exception type
   + The type_info header defines the **bad_cast** exception type
 
-##chapter summary
+## chapter summary
 + while, for, and do while statements, which provide iterative execution
 + if and switch, which provide conditional execution.
 + continue, which stops the current iteration of a loop.
