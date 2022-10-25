@@ -106,7 +106,7 @@ int main(){
  vector<string> words;
  string word;
  while(cin >> word){
-     words.push_back(word);
+     words.push_back(text);
  }
  for(auto &str:words){
      for(auto &c:str){
