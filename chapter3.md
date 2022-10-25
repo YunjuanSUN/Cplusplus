@@ -62,7 +62,7 @@ vector<string> v8{10, "hi"}; // v8 has ten elements with value "hi"
 string word;
 vector<string> text; // empty vector
 while (cin >> word) {
-text.push_back(word); // append word to text
+text.push_back(text); // append word to text
 }
 ```
 #### Other vector Operations
